@@ -5,7 +5,7 @@
 
 -Käyttäjä voi lisätä, muokata ja poistaa boss-vihollisia.
 
--Käyttäjä voi nähdä kaikki lisätyt boss-viholliset-.
+-Käyttäjä voi nähdä kaikki lisätyt boss-viholliset.
 
 -Käyttäjä pystyy etsimään boss-vihollisia hakusanalla.
 
